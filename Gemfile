@@ -9,5 +9,8 @@ end
 
 group :test do
   gem 'rspec', '2.4'
-  gem 'webrat', '0.7.3'
+  gem 'webrat', '0.7.1'
+  gem 'autotest', '4.4.6'
+  gem 'redgreen', '1.2.2'
+  gem 'test-unit', '2.1.2'
 end
